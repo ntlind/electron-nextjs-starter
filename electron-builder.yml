@@ -1,6 +1,6 @@
 appId: com.example.nextron
-productName: My Nextron App
-copyright: Copyright © 2018 Yoshihide Shiono
+productName: Electron Next.js Starter App
+copyright: Copyright © 2022 Nick Lind
 directories:
   output: dist
   buildResources: resources
