@@ -2,20 +2,16 @@
 
 ## Description
 
-A starter for building apps with Next.js, Typescript, and Tailwind. Based-off the [Nextron](https://github.com/saltyshiomix/nextron) starter, but with a few changes:
-+ Tailwind
-+ Helvetica Now Display as default font
-- Material UI
-- Simplified _app.tsx and _document.tsx structure
+A starter for building apps with Next.js, Typescript, and Tailwind. Based-off the [Nextron](https://github.com/saltyshiomix/nextron) starter, but with Tailwind and Helvetica Now for styling. I also removed Material UI and simplified the _app.tsx and _document.tsx structures.
 
-<p align="center"><img src="https://i.imgur.com/flcMvDC.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ntlind/electron-nextjs-starter/main/renderer/public/images/screenshot.png"></p>
 
 
 ## Usage
 
 ```
 # install
-$ xx && yarn
+$ git clone https://github.com/ntlind/electron-nextjs-starter && electron-nextjs-starter && yarn
 
 # develop your app
 $ yarn dev
